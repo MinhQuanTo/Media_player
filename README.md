@@ -9,6 +9,7 @@ Features
   -Choose a file to play using the file dialog
 
 Installation
+
   -Clone or download the repository
   -Install PyQt5 library: pip install PyQt5
 
