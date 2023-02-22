@@ -13,3 +13,7 @@ Installation
   -Clone or download the repository
   -Install PyQt5 library: pip install PyQt5
 
+Future improvement
+  
+  -Add more function to pymedia player: change quality of video, volume...
+
