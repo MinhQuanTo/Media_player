@@ -17,6 +17,8 @@ Future improvement
   
   -Add more function to pymedia player: change quality of video, volume...
   
+  -Možnost propojení s internetem například přehrávání automaticky stahovaných videi z youtube.
+  
   -Playlist support: Allow the user to create and save playlists of their favorite songs. This would involve adding a playlist window to application where the user can    drag and drop songs to create a playlist. I also add support for adding and removing songs from a playlist and saving the playlist to a file for future use.
 
   -Equalizer: Add an equalizer to media player to allow the user to adjust the sound levels to their liking. This would involve adding a new window to application with    sliders for bass, treble, and other sound levels. 
